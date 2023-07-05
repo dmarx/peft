@@ -15,7 +15,9 @@
 
 ############################################################################
 
-WIP adaptation of ./lora.py to implement https://arxiv.org/abs/2306.07967
+# WIP adaptation of ./lora.py to implement 
+# - https://arxiv.org/abs/2306.07967
+# - https://github.com/Arnav0400/ViT-Slim/tree/master/GLoRA
 
 ############################################################################
 
